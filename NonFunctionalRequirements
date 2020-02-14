@@ -6,18 +6,5 @@ Requirement Description: The system will respond within 0.5 seconds to the user.
 Initials: KF
 
 
-Requirement ID: NFR002
-	Requirement Title: Capacity
-	Requirement Description: The system will need to support 4 people at once.
-	Initials: NA
-	
-Requirement ID: NFR003
-	Requirement Title: Back up 
-	Requirement Description: The system will offer the efficiency for data back-up.
-	Initials: NA
 
-Requirement ID: NFR004
-	Requirement Title: Availability  
-	Requirement Description: The system will be available all the time. 
-	Initials: NA
 
